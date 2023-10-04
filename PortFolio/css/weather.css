@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:calibri;
+}
+body{
+	background:#222;
+}
+.card{
+	width:90%;
+	margin:40px auto 0px;
+	background:linear-gradient(rgba(255,255,255,0.8),rgba(0,0,0,0.8));
+	padding:40px 20px;
+	border-radius:40px;
+	max-width:470px;
+	
+}
+.search{
+	width:100px;
+	align-items:center;
+	justify-content:space-between;
+	display:flex;
+}

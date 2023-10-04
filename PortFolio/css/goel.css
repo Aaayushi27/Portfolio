@@ -1,0 +1,29 @@
+*{
+  height:100%;
+  width:100%;
+ margin:0px auto;
+font-family:calibri
+}
+#menue{
+ height:50px;
+ width:100vw;
+ background-color:rgb(227, 227, 13);
+ margin-top:0px;
+ float:left
+}
+#right ul{
+    list-style-type:none;
+}
+.rl li{
+    width:400px;
+    text-align:center;
+    border-right:1px solid lightgrey;
+    margin-top:-40px;
+ }
+#right{
+  height:50px;
+  width:50vw;
+  float:right;
+  display:inline-block;
+}
+  
